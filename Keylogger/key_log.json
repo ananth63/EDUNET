@@ -1,0 +1,194 @@
+[
+    {
+        "Pressed": "Key.ctrl"
+    },
+    {
+        "Pressed": "a"
+    },
+    {
+        "Released": "Key.ctrl"
+    },
+    {
+        "Released": "'a'"
+    },
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "s"
+    },
+    {
+        "Pressed": "a"
+    },
+    {
+        "Released": "'s'"
+    },
+    {
+        "Released": "'a'"
+    },
+    {
+        "Pressed": "v"
+    },
+    {
+        "Released": "'v'"
+    },
+    {
+        "Pressed": "e"
+    },
+    {
+        "Pressed": "r"
+    },
+    {
+        "Released": "'e'"
+    },
+    {
+        "Released": "'r'"
+    },
+    {
+        "Pressed": "Key.space"
+    },
+    {
+        "Released": "Key.space"
+    },
+    {
+        "Pressed": "i"
+    },
+    {
+        "Released": "'i'"
+    },
+    {
+        "Pressed": "s"
+    },
+    {
+        "Released": "'s'"
+    },
+    {
+        "Pressed": "Key.space"
+    },
+    {
+        "Released": "Key.space"
+    },
+    {
+        "Pressed": "m"
+    },
+    {
+        "Released": "'m'"
+    },
+    {
+        "Pressed": "y"
+    },
+    {
+        "Pressed": "Key.space"
+    },
+    {
+        "Released": "'y'"
+    },
+    {
+        "Released": "Key.space"
+    },
+    {
+        "Pressed": "n"
+    },
+    {
+        "Released": "'n'"
+    },
+    {
+        "Pressed": "a"
+    },
+    {
+        "Released": "'a'"
+    },
+    {
+        "Pressed": "m"
+    },
+    {
+        "Released": "'m'"
+    },
+    {
+        "Pressed": "e"
+    },
+    {
+        "Released": "'e'"
+    },
+    {
+        "Pressed": "Key.space"
+    },
+    {
+        "Released": "Key.space"
+    },
+    {
+        "Pressed": "s"
+    },
+    {
+        "Pressed": "o"
+    },
+    {
+        "Released": "'s'"
+    },
+    {
+        "Pressed": "Key.space"
+    },
+    {
+        "Released": "'o'"
+    },
+    {
+        "Released": "Key.space"
+    },
+    {
+        "Pressed": "l"
+    },
+    {
+        "Pressed": "o"
+    },
+    {
+        "Released": "'l'"
+    },
+    {
+        "Released": "'o'"
+    },
+    {
+        "Pressed": "v"
+    },
+    {
+        "Pressed": "e"
+    },
+    {
+        "Released": "'v'"
+    },
+    {
+        "Pressed": "Key.space"
+    },
+    {
+        "Released": "'e'"
+    },
+    {
+        "Released": "Key.space"
+    },
+    {
+        "Pressed": "m"
+    },
+    {
+        "Released": "'m'"
+    },
+    {
+        "Pressed": "e"
+    },
+    {
+        "Released": "'e'"
+    },
+    {
+        "Pressed": "Key.ctrl"
+    },
+    {
+        "Pressed": "s"
+    },
+    {
+        "Released": "Key.ctrl"
+    },
+    {
+        "Released": "'s'"
+    }
+]
